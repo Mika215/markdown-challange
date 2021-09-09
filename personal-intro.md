@@ -1,6 +1,9 @@
 # Michael Tesfay
 
-> _The best is yet to come_
+> _"It is not the strongest of the species that survives,
+nor the most intelligent that survives.
+It is the one that is most adaptable to change." 
+_ - Charles Darwin
 
 ![Temporary picture -Place holder](tempo-photo.png)
 
