@@ -8,12 +8,12 @@
 
 "Me in one sentence": A curious soul.
 
-|          |              |       
-|:--------:|:-------------:|
-| Born on       | 19 June 1989  |      
-| Favorite color| Blue          |    
-| Favorite food | Belgian Quiche | 
-| Pinneapple on pizza|  - [x] Yes - [] No | 
+
+| Birthday      |    favorite color     | favorite food | Pineapple on Pizza
+| ------------- |:-------------:| ------------- |:-------------:|
+|19/06          | Blue| Belgian Quiche  |    - [x] Yes |
+
+
 
 #### Hobbies 
 
